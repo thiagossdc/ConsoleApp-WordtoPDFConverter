@@ -10,7 +10,7 @@ C#: Programming language used.
 .NET 8: Framework used to build the application.
 Microsoft.Office.Interop.Word: COM library that allows you to interact with Microsoft Word to export documents to PDF.
 
-#Prerequisites
+#Prerequisites:
 Microsoft Word must be installed on your computer, as the program uses the Word Interop API.
 .NET 8 SDK installed on your machine.
 --------------------------------------------
