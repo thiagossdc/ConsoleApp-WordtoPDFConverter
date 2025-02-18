@@ -18,9 +18,9 @@ Microsoft Word must be installed on your computer, as the program uses the Word 
 git clone https://github.com/user/ConsoleApp-WordtoPDFConverter.git
 cd ConsoleApp-WordtoPDFConverter
 
-dotnet restore
-dotnet build
-dotnet run
+dotnet restore; 
+dotnet build; 
+dotnet run;
 
 #insert the relative path
 
